@@ -6,7 +6,7 @@
   :crayon: Вы можете использовать мой проект для выполнения простейших арифметических операций.
 
 > ### **Пример работы кода:** 
-![image](https://github.com/pl9shy/calculator/assets/157023698/dd4dc6db-3807-45ca-9e08-41128b64e0eb)
+![image](https://github.com/pl9shy/calculator/assets/157023698/08454b4f-e9f2-420f-9989-a3a68d66e410)
   
 ### *Статус проекта:* В разработке
 
