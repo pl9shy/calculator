@@ -1,0 +1,14 @@
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\bin\Debug\net8.0\Calc.exe
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\bin\Debug\net8.0\Calc.deps.json
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\bin\Debug\net8.0\Calc.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\bin\Debug\net8.0\Calc.pdb
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\refint\Calc.dll
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.pdb
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+c:\Users\neoww\Desktop\Folder\Work\CSharp\Calc\obj\Debug\net8.0\ref\Calc.dll
